@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://colegioiberoamericano.github.io"
+url: "https://aldo-y-adriana.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -31,9 +31,9 @@ force-https: True
 
 lang: "es"
 author: "Gerardo G. Reyes"
-title: "Colegio Iberoamericano"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "Colegio Iberoamericano, Colegio, Iberoamericano, RVOE, SEP"
+title: "¡Nos casamos! | Aldo y Adriana"
+description: "Invitación para la boda de Aldo y Adriana, que se llevará a cabo el día xx de diciembre de 2021"
+keywords: "Aldo, Adriana, Boda, Amor"
 favicon: "/img/favicon.ico"
 
 ################
@@ -56,10 +56,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Preparando a nuestros niños para un mejor futuro..."
-  - text: "Alcanzando la excelencia en educación..."
-  - text: "Sabías que contamos con Reconocimiento Oficial de la SEP?"
-  - text: "Otro texto aleatorio..."
+  - text: "Quiero que nuestro amor no tenga un final feliz, porque simplemente no quiero que tenga final."
+  - text: "El amor que siento es perfecto porque tu eres parte de él."
+  - text: "Y aunque lleguen las tormentas, sé que si estoy a tu lado las superaremos juntos."
+  - text: "Solo sé que haces de mi vida la más hermosa, te amo."
 
 
 me-img: "/img/jetpacktocat.png"
@@ -170,9 +170,9 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  Nosotros: 'about'
+  Nuestra boda: 'about'
   Avisos: 'latest-post'
-  Organigrama: 'timeline'
+  Itinerario: 'timeline'
   Contacto: 'contact'
 
 # Exclusion list from the generated _site
